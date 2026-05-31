@@ -1,54 +1,25 @@
-```bash
-> whoami
-Mathieu Bellon 👋
-Technical Product Manager | AI & Agent Builder | Open-Source Advocate
+# Hi, I'm Mathieu Bellon 👋
 
-> cat about_me.txt
-I’m a **technical product manager** with a passion for building tools that simplify workflows
-and empower teams. My journey includes **10 years of SaaS development**, automation,
-and AI-driven solutions, bridging the gap between technical teams and business goals.
+**Senior Product Manager @ GitGuardian** · AI & Agent Builder · Open-Source Advocate
+📍 Rennes, France
 
----
-🏢 My SaaS Journey: app.pilot.pm
-For a decade, I built and led **app.pilot.pm**, a **B2B SaaS platform** designed for
-**content marketing and legal teams** to collaborate, produce, and manage content at scale.
+Technical product manager with 10+ years bridging engineering and business — from
+founding a SaaS company to shipping security products at scale.
 
-> ls app.pilot.pm/features
-├── Centralized content production (drafting, reviewing, approving)
-├── Real-time collaboration (live updates, comments, notifications)
-├── Automation & scalability (job queues, ElasticSearch, Redis)
-└── Full-stack architecture (Python/Django, ES6/JavaScript, PostgreSQL)
+### Now
+At **GitGuardian**, working on secrets detection and non-human identity (NHI) security —
+bringing intelligent agents into developer workflows to take action responsibly and securely.
 
-> echo "After closing the company, I open-sourced the codebase for developers to explore!"
+### Before
+- **Sekoia.io** — cybersecurity (SOC / threat detection)
+- **Livestorm** — video engagement platform
+- **Pilot.pm** *(Founder)* — B2B content-collaboration platform for marketing & legal teams.
+  Built over a decade (Python/Django, JavaScript, PostgreSQL, ElasticSearch, Redis);
+  open-sourced after closing the company.
 
----
-🤖 What I’m Building Now
-I’m focused on **LangGraph agents**, preparing for a future where people will directly "talk" to their data.
+### Skills
+Product Management · AI & Automation (agent frameworks) · Cybersecurity · Open Source
 
-> ps aux | grep "current work"
-Building autonomous agents to interact with data and automate workflows
-Exploring natural language interfaces for seamless data access
-Developing tools to make data intuitive and actionable for end-users
-
----
-🛠️ What I Do
-> ls --skills
-├── Technical Product Management (Bridging tech and business needs)
-├── AI & Automation (clai, LangGraph, agent frameworks)
-├── Open Source (Sharing knowledge & fostering collaboration)
-└── Workflow Optimization (Scaling teams and tools)
-
----
-🌱 Always Learning
-> tail -f learning_log.txt
-AI integration in product development
-Scalable systems and agent frameworks
-The future of human-data interaction
-
----
-💬 Let’s Connect!
-> echo "Find me at:"
-📬 GitHub: @mathieubellon
-🔗 LinkedIn: mathieubellon
-> echo "Ask me about: Product management, AI, agents, SaaS, or open-source!"
-```
+### Connect
+[GitHub](https://github.com/mathieubellon) · [LinkedIn](https://fr.linkedin.com/in/matthieubellon)
+Ask me about product, AI, agents, SaaS, security, or open source.
